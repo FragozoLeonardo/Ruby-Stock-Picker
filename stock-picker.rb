@@ -22,4 +22,4 @@ end
 
 best_days = stock_picker(prices)
 
-puts "The best days sell and the the best profit is:  #{best_days}"
+puts "The best days to sell the product and the the best profit is:  #{best_days}"
